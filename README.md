@@ -12,8 +12,6 @@ The GitHub Foundation Certification is a credential that validates your understa
 
 ## Common Mistakes
 
-### ⚠ Common Mistakes Made
-
 🔸 **Incomplete Syllabus Coverage:** Not covering the entire syllabus of the exam.
 
 🔸 **Technical Issues:** Running the tutorial exam and finding an issue that prevented the exam from starting, wasting two days to resolve it.
